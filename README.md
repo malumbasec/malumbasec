@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malumba</h1>
-<h3 align="center">Aspiring Cyber Security - Penetration Tester</h3>
+<h3 align="center">Cyber Security - Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malumbasec&label=Profile%20views&color=ff0000&style=flat" alt="malumbasec" /> </p>
 
