@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SS7 Protocols<br><br>🌱 I’m currently learning Python, C++, GoLang<br><br>📫 How to reach me Malumba#0722 (Discord) or Twitter @MalumbaSec<br><br>⚡ Fun fact If God does exist, it's not me. It's my brother.
+🔭 I’m currently working on **SS7 Protocols**<br><br>🌱 I’m currently learning **Python, C++, GoLang**<br><br>📫 How to reach me **Malumba#0722 (Discord)** or Twitter **@MalumbaSec**<br><br>⚡ Fun fact **If God does exist, it's not me. It's my brother.**
 
 
 ## 🌐 Socials:
@@ -22,6 +22,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/malumbasec) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
