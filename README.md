@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Work In Progress**<br><br>🌱 I’m currently learning **Python**<br><br>📫 How to reach me **Malumba#0722 (Discord)** or Twitter **@MalumbaSec**<br><br>⚡ Fun fact **If God does exist, it's not me. It's my brother.**
+🌱 I’m currently learning **Python**<br><br>📫 How to reach me **Malumba#0722 (Discord)** or Twitter **@MalumbaSec**<br><br>⚡ Fun fact **If God does exist, it's not me. It's my brother.**
 
 
 ## 🌐 Socials:
